@@ -16,14 +16,6 @@ A tool that can find the admin username of WordPress
 ```bash
   python3 wpuser_finder.py
 ```
-## Author
-- [@iamajraj](https://www.github.com/iamajraj)
-
-  
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/iamajraj/)
-
-I have successfully added the new feature you requested to the WordPress Username Finder. Here's what was implemented:
 
 ## New Feature Added: Multiple User ID Scanner
 
